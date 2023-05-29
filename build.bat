@@ -1,1 +1,1 @@
-docker build -t pg-shopping .
+docker build -t surubi .
