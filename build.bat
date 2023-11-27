@@ -1,1 +1,1 @@
-docker build -t surubi .
+docker build -t surubi-bb .
